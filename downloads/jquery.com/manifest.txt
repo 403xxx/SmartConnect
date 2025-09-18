@@ -1,0 +1,6 @@
+Source page: https://jquery.com
+Number of .js files: 3
+
+1	https://code.jquery.com/jquery-3.7.1.min.js	OK	001_jquery-3.7.1.min.js
+2	https://jquery.com/wp-content/themes/jquery/js/main.js?v=10baaffd	OK	002_main.js
+3	https://jquery.com/wp-content/themes/jquery/lib/typesense-minibar/typesense-minibar.js?v=830f1ee1	OK	003_typesense-minibar.js

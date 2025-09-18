@@ -1,0 +1,16 @@
+Source page: https://u238.vercel.app/admin/login
+Number of .js files: 13
+
+1	https://u238.vercel.app/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js?dpl=dpl_9BiQaSDyu4z3jspxqLhakbyHUAN7	OK	001_4bd1b696-100b9d70ed4e49c1.js
+2	https://u238.vercel.app/_next/static/chunks/1255-7ee7f54897341e17.js?dpl=dpl_9BiQaSDyu4z3jspxqLhakbyHUAN7	OK	002_1255-7ee7f54897341e17.js
+3	https://u238.vercel.app/_next/static/chunks/main-app-b7ac91ae224968d9.js?dpl=dpl_9BiQaSDyu4z3jspxqLhakbyHUAN7	OK	003_main-app-b7ac91ae224968d9.js
+4	https://u238.vercel.app/_next/static/chunks/5707-6e9128a46d0d5a94.js?dpl=dpl_9BiQaSDyu4z3jspxqLhakbyHUAN7	OK	004_5707-6e9128a46d0d5a94.js
+5	https://u238.vercel.app/_next/static/chunks/3455-0605a18216ef1d28.js?dpl=dpl_9BiQaSDyu4z3jspxqLhakbyHUAN7	OK	005_3455-0605a18216ef1d28.js
+6	https://u238.vercel.app/_next/static/chunks/6010-cc0c85da600c4705.js?dpl=dpl_9BiQaSDyu4z3jspxqLhakbyHUAN7	OK	006_6010-cc0c85da600c4705.js
+7	https://u238.vercel.app/_next/static/chunks/1760-5a44218506a1027a.js?dpl=dpl_9BiQaSDyu4z3jspxqLhakbyHUAN7	OK	007_1760-5a44218506a1027a.js
+8	https://u238.vercel.app/_next/static/chunks/9972-6552c6c71285a15a.js?dpl=dpl_9BiQaSDyu4z3jspxqLhakbyHUAN7	OK	008_9972-6552c6c71285a15a.js
+9	https://u238.vercel.app/_next/static/chunks/app/layout-54da730e37edf2ad.js?dpl=dpl_9BiQaSDyu4z3jspxqLhakbyHUAN7	OK	009_layout-54da730e37edf2ad.js
+10	https://u238.vercel.app/_next/static/chunks/2619-04bc32f026a0d946.js?dpl=dpl_9BiQaSDyu4z3jspxqLhakbyHUAN7	OK	010_2619-04bc32f026a0d946.js
+11	https://u238.vercel.app/_next/static/chunks/app/admin/login/page-4dccf1d8986c6168.js?dpl=dpl_9BiQaSDyu4z3jspxqLhakbyHUAN7	OK	011_page-4dccf1d8986c6168.js
+12	https://u238.vercel.app/_next/static/chunks/polyfills-42372ed130431b0a.js?dpl=dpl_9BiQaSDyu4z3jspxqLhakbyHUAN7	OK	012_polyfills-42372ed130431b0a.js
+13	https://u238.vercel.app/_next/static/chunks/webpack-265f433f4451e7d3.js?dpl=dpl_9BiQaSDyu4z3jspxqLhakbyHUAN7	OK	013_webpack-265f433f4451e7d3.js
